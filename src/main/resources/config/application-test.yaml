@@ -1,0 +1,18 @@
+
+endpoints:
+  health:
+    sensitive: false
+  mappings:
+    sensitive: false
+  trace:
+    sensitive: false
+  metrics:
+    sensitive: false
+  env:
+    sensitive: false
+  configprops:
+    sensitive: false
+  beans:
+    sensitive: false
+  autoconfig:
+    sensitive: false

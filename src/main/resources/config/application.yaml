@@ -1,0 +1,17 @@
+
+spring:
+  profiles:
+    active: dev
+#  session:
+#    store-type: redis   #使用此配置session将存储到redis中
+
+
+#server:
+#  ssl:
+#    key-store: classpath:keystore.p12
+#    key-password: sire20094167
+#    key-store-type: PKCS12
+#    key-alias: tomcat
+#  port: 8443
+#  servlet:
+#    context-path: /newspringboot
